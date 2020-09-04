@@ -1,6 +1,6 @@
 # association-caritative
 
-##Explication du projet
+## Explication du projet
 
 Aujourd'hui nous avons du faire un excercice ou nous avons du faire une one-page sur une assosiation caritaive. J'ai donc choisi de faire sur l'association Médecin du monde.
 
