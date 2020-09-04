@@ -26,6 +26,10 @@ nav ul li{
     float: left;
     margin-right: 40px ;
 }
+.nav{
+    text-transform: uppercase;
+    float: left;
+}
 /* -------- Lien ------ */
 a:link,a:visited{
     color: #ffffff;
@@ -63,6 +67,11 @@ h4{
 h5{
     font-size: 18px;
     color: #084983;
+}
+h6{
+    font-size: 24px;
+    color: #fff ;
+    line-height: 10px;
 }
 /* -------- Grid ------ */
 .grid{
@@ -122,4 +131,21 @@ h5{
 #Albert{
     text-align: right;
     font-weight: 900;
+}
+.tkt{
+    font-size: 12px;
+    text-align: right;
+    font-weight: 400;
+}
+/* -------- Footer ------ */
+footer{
+    text-align: center;
+    margin:0;
+    padding-top: 10px;
+    background: #084983;
+    padding-left: 250px;
+    padding-right: 180px;
+    color: #fff;
+    height: 100px;
+
 }
