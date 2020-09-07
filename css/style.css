@@ -124,6 +124,14 @@ h6{
     width: 1400px;
     margin: 100px auto 100px auto;
 }
+#video{
+    width: 1400px;
+    margin: 100px auto 100px auto;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+}
 /* -------- Texte ------ */
 .titre{
     font-weight: bold;
