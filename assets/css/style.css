@@ -13,9 +13,8 @@ body {
 
 /* -------- Header ------ */
 header {
-  padding: 10px;
   background: #084983;
-  height: 5rem;
+  text-transform: uppercase;
 }
 
 header img {
@@ -27,31 +26,26 @@ nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
   text-transform: uppercase;
-  float: right;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  text-align: center;
 }
 
 nav ul li {
   list-style: none;
   float: left;
-  margin-right: 40px;
-}
-
-.nav {
-  text-transform: uppercase;
-  float: left;
 }
 
 /* -------- Lien ------ */
-a:link, a:visited {
+a.nav-link1:link, a.nav-link1:visited {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
+  padding-right: 1rem;
 }
 
-a:hover {
+a.nav-link1:hover {
   color: #1e93cc;
 }
 
